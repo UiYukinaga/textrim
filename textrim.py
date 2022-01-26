@@ -1,6 +1,3 @@
-import sys
-import glob
-import shutil
 import os
 
 def textrim():
